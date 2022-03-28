@@ -1,4 +1,7 @@
 # SEED-Labs-Packet-Sniffing-and-Spoofing-Lab
+
+[For more details check out my article at my website](https://dorazaria.github.io/network/packet-sniffing-and-spoofing-lab/) <br>
+
 Packet sniffing and spoofing are two important concepts in network security; they are two major threats in network communication. <br>
 Being able to understand these two threats is essential for understanding security measures in networking.<br><br>
 There are many packet sniffing and spoofing tools, such as Wireshark, Tcpdump, Netwox, Scapy, etc. <br>
